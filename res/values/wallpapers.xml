@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>thaplash_logo_head_office</item>
-        <item>thaplash_logo_head_office2</item>
-	<item>kwes1020_aokpwp1</item>
-	<item>kwes1020_aokpwp2</item>
-	<item>knokfirst_phlashlogo</item>
-	<item>knokfirst_phlashlogo_light</item>
-	<item>knokfirst_phlashlogo_crazy</item>
-	<item>bluewall_white_unicorn_and_blue</item>
-	<item>bluewall_white_unicorn_and_green</item>
-	<item>bluewall_white_unicorn_and_orange</item>
-	<item>eatmode4life_skycore</item>
-	<item>jaithemes_striped</item>
-	<item>jaithemes_striped_blue</item>
-        <item>jaithemes_setyourunicornfree</item>
-        <item>jaithemes_village_gradient</item>
-	<item>just_reboot_abstract</item>
-	<item>just_reboot_abstract2</item>
-	<item>just_reboot_aokp_samurai</item>
-	<item>just_reboot_wall_10</item>
-	<item>mobile_sensei_star</item>
-	<item>mobile_sensei_x1</item>
-	<item>mobile_sensei_x2</item>
-	<item>mobile_sensei_x3</item>
-	<item>mobile_sensei_x4</item>
-	<item>mobile_sensei_x5</item>
-	<item>mobile_sensei_x6</item>
-        <item>samsungclay02</item>
+        <item>mao_red1</item>
+        <item>salahmed1</item>
+        <item>sgtabhi1</item>
+        <item>sgtabhi2</item>
+        <item>sgtabhi3</item>
+        <item>stimpz0r1</item>
+        <item>stimpz0r2</item>
+        <item>stimpz0r3</item>
     </string-array>
 </resources>

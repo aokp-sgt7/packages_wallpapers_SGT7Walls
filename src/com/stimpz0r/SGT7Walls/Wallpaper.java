@@ -1,4 +1,13 @@
-package com.cr5315.PCB;
+/*
+** AOKP SGT7 Wallpapers - for all the wallpapers specific to AOKP SGT7
+**
+** taken from AOKP's SwagPapers, which was originally from the AOKPCB project (created by cr5315)
+** credits go to them, all i've done is change the name of the program (so it doesn't conflict with SwagPapers),
+** and of course added AOKP SGT7 wallpapers. 
+**
+*/
+
+package com.stimpz0r.SGT7Walls;
 
 import android.app.Activity;
 import android.content.res.Resources;
