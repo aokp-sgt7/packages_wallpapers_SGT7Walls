@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>aokp_sgt7_1</item>
+        <item>aokp_sgt7_1_dark</item>
+        <item>aokp_sgt7_1_logo</item>
+        <item>aokp_sgt7_2</item>
+        <item>aokp_sgt7_2_logo</item>
+        <item>aokp_sgt7_3</item>
+        <item>aokp_sgt7_3_logo</item>
+        <item>aokp_sgt7_4</item>
+        <item>aokp_sgt7_4_logo</item>
+        <item>aokp_sgt7_5</item>
+        <item>aokp_sgt7_5_logo</item>
+        <item>aokp_sgt7_6</item>
+        <item>aokp_sgt7_6_logo</item>
         <item>mao_red1</item>
         <item>salahmed1</item>
         <item>sgtabhi1</item>
